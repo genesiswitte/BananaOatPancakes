@@ -1,0 +1,88 @@
+body {
+background-color: #fdf8c3;
+color: #483314;
+font-size: 18px;
+font-family: "source-serif-4-variable", sans-serif;
+font-variation-settings: "opsz" 20, "wght" 400;
+}
+
+h1 {
+font-size: 60px;
+font-family: "reklame-script", sans-serif;
+font-weight: 700;
+font-style: normal;
+margin-left: 50px;
+}
+
+h3 {
+font-size: 40px;
+font-family: "reklame-script", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.sidebar {
+width: 240px;
+height: 1100px;
+float: left;
+padding-top: 20px;
+padding-right: 50px;
+padding-left: 50px;
+padding-bottom: 10px;
+margin-right: 50px;
+margin-left: 50px;
+line-height: 2.0;
+background-color: #483314;
+color:#fdf8c3;
+}
+
+#illustration {
+position: absolute;
+top: 1250px;
+left: 5px;
+}
+
+.container {
+line-height: 2.0;
+padding-left: 400px;
+}
+
+#image {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+#image2 {
+padding-left: 50px;
+padding-top: 10px;
+}
+
+.recipeideas {
+padding-left: 50px;
+}
+
+.addins {
+padding-left: 50px;
+}
+
+.listone {
+position: absolute;
+top: 2325px;
+padding-left: 50px;
+}
+.listtwo {
+padding-left: 250px;
+position: absolute;
+top: 2325px;
+}
+
+.listthree {
+padding-left: 450px;
+position: absolute;
+top: 2325px;
+}
+
+body {
+width: 1450px;
+margin: 0 auto;
+}
